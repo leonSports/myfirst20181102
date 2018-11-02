@@ -6,3 +6,5 @@ my change test content.
 add content.
 
 test search log.
+
+test add file.

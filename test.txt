@@ -4,3 +4,5 @@ this is my first version test.
 my change test content.
 
 add content.
+
+test search log.

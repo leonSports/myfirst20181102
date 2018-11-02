@@ -8,3 +8,5 @@ add content.
 test search log.
 
 test add file.
+
+test checkout.
